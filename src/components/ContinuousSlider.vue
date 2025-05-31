@@ -20,19 +20,19 @@ export default {
       offset: 0,
       animationFrameId: null,
       images: [
-        '/img/main/slider/1.png',
-        '/img/main/slider/2.png',
-        '/img/main/slider/3.png',
-        '/img/main/slider/4.png',
-        '/img/main/slider/5.png',
-        '/img/main/slider/6.png',
-        '/img/main/slider/7.png',
-        '/img/main/slider/8.png',
-        '/img/main/slider/9.png',
-        '/img/main/slider/10.png',
-        '/img/main/slider/11.png',
-        '/img/main/slider/12.png',
-        '/img/main/slider/13.png'
+        '/public/img/main/slider/1.png',
+        '/public/img/main/slider/2.png',
+        '/public/img/main/slider/3.png',
+        '/public/img/main/slider/4.png',
+        '/public/img/main/slider/5.png',
+        '/public/img/main/slider/6.png',
+        '/public/img/main/slider/7.png',
+        '/public/img/main/slider/8.png',
+        '/public/img/main/slider/9.png',
+        '/public/img/main/slider/10.png',
+        '/public/img/main/slider/11.png',
+        '/public/img/main/slider/12.png',
+        '/public/img/main/slider/13.png'
       ],
       speed: 2, // Скорость прокрутки (пикселей за кадр)
       imageWidth: 100// Ширина одного изображения (нужно задать явно)
